@@ -1,2 +1,4 @@
-# Quantum
-Though its quantum, the data here's not probablistic!
+# XCQR
+
+##This is a repo fir XCQR3, all the data and resources are updated
+
